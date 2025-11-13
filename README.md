@@ -1,4 +1,4 @@
-# Pizza-Sales_Report-
+# Pizza-Sales_Report
 # 🍕 Power BI x MySQL | Pizza Sales Performance Dashboard
 
 A few weeks ago, I decided to challenge myself — not with another tutorial, but with something that would test how well I could think and build like a **Data Analyst**.
